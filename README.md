@@ -60,7 +60,7 @@ This project showcases expertise in:
 ```bash
 # Clone the repository
 git clone https://github.com/Prince4552/emg-gesture-recognition.git
-cd emg-gesture-control
+cd emg-gesture-recognition
 
 # Install dependencies
 pip install -r requirements.txt
